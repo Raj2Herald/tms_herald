@@ -15,4 +15,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'tms_project.settings')
 
 application = get_wsgi_application()
 Happy holi........
-
+Happy birthday Tisha
